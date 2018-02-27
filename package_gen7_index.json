@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/Sandy5134/Gen7-Arduino"
           },
-          "url": "https://github.com/Lauszus/Sanguino/releases/download/1.0.2/Sanguino-1.0.2.zip",
-          "archiveFileName": "Sanguino-1.0.2.zip",
-          "checksum": "SHA-256:35eaab65d621450820ab094bdaa8d93993e2191b57a161c2ab201ba7626206e0",
-          "size": "91859",
+          "url": "https://github.com/Sandy5134/Gen7-Arduino/releases/download/2.2/Gen7-2.2.zip",
+          "archiveFileName": "Gen7-2.2.zip",
+          "checksum": "SHA-256:4d1b47aba15914c006bd4c8d504e91260ec17773a85bc8733630b628ac4243f7",
+          "size": "13789",
           "boards": [
             {"name": "Generation7"}
           ],
