@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Generation7",
+      "name": "Generation 7 Electronics",
       "maintainer": "Sandy",
       "websiteURL": "https://github.com/Sandy5134/Gen7-Arduino",
       "email": "ericofkholmdverg@gmail.com",
@@ -10,10 +10,10 @@
       },
       "platforms": [
         {
-          "name": "Generation7",
+          "name": "Gen7",
           "architecture": "avr",
           "version": "2.2",
-          "category": "Generation7",
+          "category": "Gen7",
           "help": {
             "online": "https://github.com/Sandy5134/Gen7-Arduino"
           },
@@ -22,7 +22,7 @@
           "checksum": "SHA-256:4d1b47aba15914c006bd4c8d504e91260ec17773a85bc8733630b628ac4243f7",
           "size": "13789",
           "boards": [
-            {"name": "Generation7"}
+            {"name": "Gen7"}
           ],
           "toolsDependencies": [
             {
