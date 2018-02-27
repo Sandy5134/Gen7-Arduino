@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "Generation7",
+      "maintainer": "Sandy",
+      "websiteURL": "https://github.com/Sandy5134/Gen7-Arduino",
+      "email": "ericofkholmdverg@gmail.com",
+      "help": {
+        "online": "https://github.com/Sandy5134/Gen7-Arduino"
+      },
+      "platforms": [
+        {
+          "name": "Generation7",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "Generation7",
+          "help": {
+            "online": "https://github.com/Sandy5134/Gen7-Arduino"
+          },
+          "url": "https://github.com/Lauszus/Sanguino/releases/download/1.0.2/Sanguino-1.0.2.zip",
+          "archiveFileName": "Sanguino-1.0.2.zip",
+          "checksum": "SHA-256:35eaab65d621450820ab094bdaa8d93993e2191b57a161c2ab201ba7626206e0",
+          "size": "91859",
+          "boards": [
+            {"name": "Generation7"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.9.2-atmel3.5.4-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino9"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
