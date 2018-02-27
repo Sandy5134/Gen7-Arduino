@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Generation 7 Electronics",
+      "name": "Gen7",
       "maintainer": "Sandy",
       "websiteURL": "https://github.com/Sandy5134/Gen7-Arduino",
       "email": "ericofkholmdverg@gmail.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Gen7",
+          "name": "Generation 7 Elecronics",
           "architecture": "avr",
           "version": "2.2",
           "category": "Gen7",
