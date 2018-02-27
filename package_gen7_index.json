@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/Sandy5134/Gen7-Arduino/releases/download/2.2/Gen7-2.2.zip",
           "archiveFileName": "Gen7-2.2.zip",
-          "checksum": "SHA-256:4d1b47aba15914c006bd4c8d504e91260ec17773a85bc8733630b628ac4243f7",
-          "size": "13789",
+          "checksum": "SHA-256:e9129a4e4b68c0ce13ead382d401ed782448ed188bb068fd27820165a3f034e4",
+          "size": "40706",
           "boards": [
             {"name": "RepRap Generation 7 Elecronics v >= 1.4"}
           ],
