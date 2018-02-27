@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Gen7",
+      "name": "gen7",
       "maintainer": "Sandy",
       "websiteURL": "https://github.com/Sandy5134/Gen7-Arduino",
       "email": "ericofkholmdverg@gmail.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Generation 7 Elecronics",
+          "name": "RepRap Generation 7 Elecronics",
           "architecture": "avr",
           "version": "2.2",
           "category": "Gen7",
@@ -22,7 +22,7 @@
           "checksum": "SHA-256:4d1b47aba15914c006bd4c8d504e91260ec17773a85bc8733630b628ac4243f7",
           "size": "13789",
           "boards": [
-            {"name": "Gen7"}
+            {"name": "RepRap Generation 7 Elecronics v >= 1.4"}
           ],
           "toolsDependencies": [
             {
