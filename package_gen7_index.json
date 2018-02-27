@@ -12,7 +12,7 @@
         {
           "name": "Generation7",
           "architecture": "avr",
-          "version": "1.0.2",
+          "version": "2.2",
           "category": "Generation7",
           "help": {
             "online": "https://github.com/Sandy5134/Gen7-Arduino"
